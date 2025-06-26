@@ -52,14 +52,6 @@ GIF created with **your chosen GIF tool**
 
 
 
-## Original App Layout (Optional Stretch Feature)
-
-Here is my entry for the "Create a second layout, this time for an original, personal app idea" stretch feature:
-
-It is for an app that **brief description**.
-
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
-
 ## Notes
 
 **Original link:** [https://designvault.io/screen/613894df-ece3-41dc-92d0-e0595af495b7](https://designvault.io/screen/613894df-ece3-41dc-92d0-e0595af495b7)
