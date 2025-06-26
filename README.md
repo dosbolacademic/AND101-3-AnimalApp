@@ -48,7 +48,9 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+GIF created with **![AND102-Project-2](https://github.com/user-attachments/assets/1dbf2b34-f4a6-4ff4-ab8c-719737f4ac2c)**
+
+
 
 
 
