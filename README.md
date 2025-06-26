@@ -40,7 +40,7 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **App Name Here** app:
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+**Original link:** [https://designvault.io/screen/613894df-ece3-41dc-92d0-e0595af495b7](https://designvault.io/screen/613894df-ece3-41dc-92d0-e0595af495b7)
 
 ## Video Demo
 
